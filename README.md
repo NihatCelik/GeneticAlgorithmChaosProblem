@@ -1,8 +1,8 @@
 # GeneticAlgorithmChaosProblem
 
-#### Elimizde 1 Milyon bitimiz ve bir formulümüz var. O Formül:  
+#### Elimizde bir formulümüz var ve bu formüle göre 1 Milyon bit üreteceğiz. O Formül:  
 ![image](https://user-images.githubusercontent.com/12509659/51771186-43537800-20f9-11e9-9d83-9c062a793bd7.png)
-#### Yeni X değeri o anki X değerinin 0.5 değerinden küçük veya büyük olmasına göre hesaplanacaktır.
+#### Yeni X değeri o anki X değerinin 0.5 değerinden küçük veya büyük olmasına göre hesaplanacaktır ve bulunan sonuca eşik değeri(0.5) uygulanacaktır. Yeni bitimiz, yeni X değeri 0.5'ten küçükse 0 büyükse 1'dir.
 #### Bu bitler öyle bir dizilsin ki 4'erli bit halinde gruplandığında sayılarımız 15625 e çok yakın olsun.
 #### 50. İterasyondaki A Değerimiz: 1.999927587433
 
